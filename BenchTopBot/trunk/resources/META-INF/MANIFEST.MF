@@ -1,0 +1,6 @@
+MIDlet-Name: BenchTopBot
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: BenchTopBot, , com.fairportfirst.bench2013.BenchTopBot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
